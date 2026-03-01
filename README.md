@@ -15,4 +15,14 @@ A simple Zerodha landing page UI clone built using HTML and CSS to practice layo
 🟡 CSS3
 🟡 Flexbox
 
-![Zerodha UI Clone](.Preview.png)
+Project Structure 
+Zerodha-UI-Clone
+├── image/
+├── .gitignore
+├── Preview.png
+├── README.md
+├── Zerodha2.css
+├── zeroda main.html
+└── zerodha.css
+
+![Zerodha UI Clone](./Preview.png)
