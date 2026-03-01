@@ -1,0 +1,74 @@
+.small1{
+  color: rgb(56, 126, 209);
+  cursor: pointer;
+}
+.small1:hover{
+  color: rgb(34, 34, 34);
+}
+h2{
+font-family:Inter, serif;
+font-size:20px;
+font-weight:500;
+color: rgb(66, 66, 66);
+font-style: solid;
+}
+h1{
+  font-family:Inter, serif;
+font-size:28px;
+font-weight:500;
+color: rgb(66, 66, 66);
+font-style: solid;
+}
+.paragraphs{
+  font-family:Inter, serif;
+  color:#666666;
+  font-size:16px;
+  font-weight:400;
+  font-style:solid;
+}
+.zerodha2image{
+  width:623px;
+  height:612px;
+  padding-right:100px;
+  padding-left:120px;
+  padding-top:20px;
+}
+.main2{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom:0%;
+  z-index:2;
+  padding-top: 300px;
+}
+.Twolines{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color:rgb(56, 126, 209);
+  font-family:Inter, serif;
+  font-size:16px;
+  font-weight:500;
+  cursor:position;
+  column-gap:0px;
+
+}
+.Twolines:hover{
+  color:rgb(68, 68, 68);
+  transition:color 0.3s;
+}
+.kitetry{
+  width: auto;
+  margin-right:20px;
+}
+.explore{
+  width:auto;
+  margin-left:20px;
+
+}
+.downline{
+right: 300px;
+}
+.para{
+padding-left:150px;
+width:450px;
+}
+
