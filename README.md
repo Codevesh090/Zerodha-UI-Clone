@@ -3,6 +3,7 @@
 A simple Zerodha landing page UI clone built using HTML and CSS to practice layout, flexbox, and modern UI design. This project was created as a frontend practice project.
 
 ##🚀 Features
+
 ⚪️ Zerodha-style landing page layout
 ⚪️ Clean and minimal UI design
 ⚪️ Flexbox-based layout
@@ -11,11 +12,13 @@ A simple Zerodha landing page UI clone built using HTML and CSS to practice layo
 ⚪️ Beginner-friendly frontend project
 
 ##🛠️ Technologies Used
+
 🟡 HTML5
 🟡 CSS3
 🟡 Flexbox
 
 ##Project Structure 
+
 Zerodha-UI-Clone
 ├── image/
 ├── .gitignore
@@ -26,4 +29,5 @@ Zerodha-UI-Clone
 └── zerodha.css
 
 ##Preview
+
 ![Zerodha UI Clone](./Preview.png)
